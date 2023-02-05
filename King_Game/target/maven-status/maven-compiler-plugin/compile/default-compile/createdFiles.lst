@@ -1,0 +1,7 @@
+Model/Knight.class
+Behaviours/WeaponBehaviour.class
+Weapons/KnifeBehaviour.class
+Main.class
+Weapons/AxeBehaviour.class
+Model/King.class
+Model/Queen.class
